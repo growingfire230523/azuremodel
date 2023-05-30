@@ -1,0 +1,2 @@
+# azuremodel
+Nothing
